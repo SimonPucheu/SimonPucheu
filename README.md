@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**SimonPucheu/SimonPucheu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Simon, I'm a student. I love robotics 🤖, programming 💻, DIY 🛠️ and astronomy 🚀. I also love sports 🏀, cats 😺 and travels ✈️.
 
-Here are some ideas to get you started:
+I've been taking part in the Coupe de France de Robotique Jr for three years now, as captain of the [Ingenium team](https://ingeniumteam.github.io/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want more informations about my contributions and projects, you can read my [website](https://simonpucheu.github.io/).
+
+## Languages
+
+- **French** Native
+- **English** [C2 Proficient EF SET](https://www.efset.org/cert/9syxBM)
+- **German** *A work in progress... 💪*
