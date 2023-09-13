@@ -9,5 +9,5 @@ If you want more informations about my contributions and projects, you can read 
 ## Languages
 
 - **French** Native
-- **English** [C2 Proficient EF SET](https://www.efset.org/cert/9syxBM)
+- **English** C2 Proficient Comprehension [EF SET](https://www.efset.org/cert/9syxBM)
 - **German** *A work in progress... 💪*
