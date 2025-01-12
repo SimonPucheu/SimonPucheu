@@ -4,7 +4,7 @@ I'm Simon, I'm a student. I love robotics 🤖, programming 💻, DIY 🛠️ an
 
 I've been taking part in the Coupe de France de Robotique Jr for three years now, as captain of the [Ingenium team](https://ingeniumteam.github.io/).
 
-If you want more informations about my contributions and projects, you can read my [website](https://simonpucheu.github.io/).
+If you want more information about my contributions and projects, you can read my [website](https://simonpucheu.github.io/).
 
 ## Languages
 
